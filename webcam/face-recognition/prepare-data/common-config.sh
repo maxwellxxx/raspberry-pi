@@ -12,5 +12,5 @@ GET_IMAGE_FACE_IDS_DIR=$PREPARE_DATA_DIR/get-image-face-ids
 PERSON_NAME=obama
 
 # Face++ API key & API Secret, replace them with your own, or all the related programs will not work
-API_KEY=XXX
-API_SECRET=XXX
+API_KEY=76f58ee91735d9b824dac31f98064c66
+API_SECRET=Ws84hNksq2KqpDgUwd3MhBj3cjBNRUDm
